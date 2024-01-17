@@ -29,6 +29,7 @@
 *.app
 
 # Generated directories
+/.idea/
 /dep_lib/
 /obj_lib/
 /dep_src/
